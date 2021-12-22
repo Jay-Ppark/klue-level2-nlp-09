@@ -4,7 +4,7 @@
 🤗 Public, Private 데이터가 분리된 Leaderboard 평가가 이루어짐.  
 🤗 하루 10회로 모델 제출 제한
 
-## [Team Portfolio](https://naem1023.notion.site/KLUE-ad3b884f6c2a4f28a00b548aa12c51b6)
+## [Team Portfolio](https://obtainable-snowboard-2ed.notion.site/KLUE-d8199820f2d346ae9b428a74a90b6c8f)
 ## [Competition Report(PDF)](competition_results/boostcamp-nlp-9.pdf)
 ## Our solutions
 - 'klue/roberta-large' with BiLSTM
